@@ -8,7 +8,7 @@ A Software Engineer 💻 trying to learn new things everyday. Most of my tech ex
 
 * 🌍  I'm based in Ramallah, Palestine
 * ✉️  You can contact me at [rasheedabukhader123@gmail.com](mailto:rasheedabukhader123@gmail.com)
-* 🧠  I'm learning JavaScript ReactJs & React Native
+* 🧠  I'm learning Mobile Application Development & Flutter
 * 🤝  I'm open to collaborating on Learn more
 
 ### Skills
